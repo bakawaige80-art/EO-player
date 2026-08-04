@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "thankful-yellow-bubblegum",
+    "slug": "snack-b1ab4c4e-ddeb-4797-ad82-642098c4db85",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.bakawaigesteam.snackb1ab4c4eddeb4797ad82642098c4db85"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e66bab25-834e-4599-8923-2ae1d9ebdaaf"
+      }
+    }
+  }
+}
