@@ -1,6 +1,10 @@
 name: Build Android APK
 
 on:
+on:
+  push:
+    branches: [ main, master ]
+  workflow_dispatch: # This adds a manual "Run workflow" button
   push:
     branches: [ main, master ]
 
